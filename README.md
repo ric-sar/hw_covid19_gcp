@@ -12,3 +12,5 @@ Follow the slides to understand the pipeline [Slides](https://github.com/ric-sar
 
 # Example
 You can run the example code on [Google Colab](https://colab.research.google.com/drive/18J08EPIG4cpzz-_4TKu61m-vgFqRwUgQ?usp=sharing).
+
+Note: Due to Plotly, the Jupyter Notebook file opened on GitHub is marked as corrupted.
